@@ -1,0 +1,7 @@
+﻿  2-3.c
+c:\users\82108\source\repos\practice 2\practice 2\2-3.c(13): warning C4013: 'gets'이(가) 정의되지 않았습니다. extern은 int형을 반환하는 것으로 간주합니다.
+  2-4.c
+c:\users\82108\source\repos\practice 2\practice 2\2-4.c(8): warning C4101: 'a' :참조되지 않은 지역 변수입니다.
+c:\users\82108\source\repos\practice 2\practice 2\2-4.c(5): warning C4101: 'k' :참조되지 않은 지역 변수입니다.
+  코드를 생성하고 있습니다...
+  Practice 2.vcxproj -> C:\Users\82108\source\repos\Practice 2\Debug\Practice 2.exe

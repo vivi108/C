@@ -1,0 +1,3 @@
+﻿  ex.c
+c:\users\82108\source\repos\0923\0923\ex.c(9): warning C4305: '초기화 중': 'double'에서 'float'(으)로 잘립니다.
+  0923.vcxproj -> C:\Users\82108\source\repos\0923\Debug\0923.exe

@@ -1,0 +1,12 @@
+﻿  소스.c
+c:\users\82108\source\repos\pancakes2_algorithm\pancakes2_algorithm\소스.c(21): warning C4013: 'printarr'이(가) 정의되지 않았습니다. extern은 int형을 반환하는 것으로 간주합니다.
+c:\users\82108\source\repos\pancakes2_algorithm\pancakes2_algorithm\소스.c(23): warning C4013: 'InsertionSort'이(가) 정의되지 않았습니다. extern은 int형을 반환하는 것으로 간주합니다.
+c:\users\82108\source\repos\pancakes2_algorithm\pancakes2_algorithm\소스.c(35): warning C4013: 'flip'이(가) 정의되지 않았습니다. extern은 int형을 반환하는 것으로 간주합니다.
+c:\users\82108\source\repos\pancakes2_algorithm\pancakes2_algorithm\소스.c(52): warning C4013: 'pop'이(가) 정의되지 않았습니다. extern은 int형을 반환하는 것으로 간주합니다.
+c:\users\82108\source\repos\pancakes2_algorithm\pancakes2_algorithm\소스.c(61): warning C4047: 'return': 'int'의 간접 참조 수준이 'int *'과(와) 다릅니다.
+c:\users\82108\source\repos\pancakes2_algorithm\pancakes2_algorithm\소스.c(82): warning C4047: '함수': 'int **'의 간접 참조 수준이 'int *'과(와) 다릅니다.
+c:\users\82108\source\repos\pancakes2_algorithm\pancakes2_algorithm\소스.c(82): warning C4024: 'pop': 형식 및 실제 매개 변수 2의 형식이 서로 다릅니다.
+c:\users\82108\source\repos\pancakes2_algorithm\pancakes2_algorithm\소스.c(58): warning C4716: 'flip': 값을 반환해야 합니다.
+c:\users\82108\source\repos\pancakes2_algorithm\pancakes2_algorithm\소스.c(68): warning C4716: 'printarr': 값을 반환해야 합니다.
+c:\users\82108\source\repos\pancakes2_algorithm\pancakes2_algorithm\소스.c(87): warning C4716: 'InsertionSort': 값을 반환해야 합니다.
+  pancakes2_algorithm.vcxproj -> C:\Users\82108\source\repos\pancakes2_algorithm\Debug\pancakes2_algorithm.exe

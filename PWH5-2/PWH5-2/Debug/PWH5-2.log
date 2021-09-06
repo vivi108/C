@@ -1,0 +1,4 @@
+﻿  소스.c
+c:\users\82108\source\repos\pwh5-2\pwh5-2\소스.c(21): warning C4244: '함수': 'time_t'에서 'unsigned int'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+c:\users\82108\source\repos\pwh5-2\pwh5-2\소스.c(79): warning C4020: 'swap': 실제 매개 변수가 너무 많습니다.
+  PWH5-2.vcxproj -> C:\Users\82108\source\repos\PWH5-2\Debug\PWH5-2.exe

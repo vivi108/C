@@ -1,0 +1,5 @@
+﻿  소스.c
+c:\users\82108\source\repos\0901\0901\소스.c(13): warning C4244: '함수': 'time_t'에서 'unsigned int'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+c:\users\82108\source\repos\0901\0901\소스.c(12): warning C4101: 'slotnum' :참조되지 않은 지역 변수입니다.
+c:\users\82108\source\repos\0901\0901\소스.c(12): warning C4101: 'num' :참조되지 않은 지역 변수입니다.
+  0901.vcxproj -> C:\Users\82108\source\repos\0901\Debug\0901.exe

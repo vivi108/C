@@ -1,0 +1,6 @@
+﻿  소스2.c
+  소스3.c
+c:\users\82108\source\repos\클리닉3\클리닉3\소스3.c(12): warning C4026: 정식 매개 변수 목록을 사용하여 함수를 선언했습니다.
+  코드를 생성하고 있습니다...
+c:\users\82108\source\repos\클리닉3\클리닉3\소스2.c(47): warning C4716: 'main2': 값을 반환해야 합니다.
+  클리닉3.vcxproj -> C:\Users\82108\source\repos\클리닉3\Debug\클리닉3.exe

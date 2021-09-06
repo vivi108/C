@@ -1,0 +1,4 @@
+﻿  소스.c
+c:\users\82108\source\repos\11.03\11.03\소스.c(51): warning C4133: '함수': 'CAR [2]'과(와) 'const char *' 사이의 형식이 호환되지 않습니다.
+c:\users\82108\source\repos\11.03\11.03\소스.c(46): warning C4101: 'ch2' :참조되지 않은 지역 변수입니다.
+  11.03.vcxproj -> C:\Users\82108\source\repos\11.03\Debug\11.03.exe

@@ -1,0 +1,6 @@
+﻿  소스.c
+c:\users\82108\source\repos\메모\메모\소스.c(563): warning C4018: '<': signed 또는 unsigned가 일치하지 않습니다.
+c:\users\82108\source\repos\메모\메모\소스.c(598): warning C4047: '=': 'char'의 간접 참조 수준이 'void *'과(와) 다릅니다.
+c:\users\82108\source\repos\메모\메모\소스.c(604): warning C4047: '=': 'char'의 간접 참조 수준이 'void *'과(와) 다릅니다.
+c:\users\82108\source\repos\메모\메모\소스.c(617): warning C4018: '<': signed 또는 unsigned가 일치하지 않습니다.
+  메모.vcxproj -> C:\Users\82108\source\repos\메모\Debug\메모.exe

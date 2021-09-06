@@ -1,0 +1,9 @@
+Age from 20-29
+Kim 20 swim
+Choi 20 swim
+Age from 30-39
+Han 30 poker
+Ko 30 movie
+Age from 40-49
+Lee 45 music
+Youn 44 poker

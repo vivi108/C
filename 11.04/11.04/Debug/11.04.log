@@ -1,0 +1,4 @@
+﻿  소스.c
+c:\users\82108\source\repos\11.04\11.04\소스.c(24): warning C4047: '함수': 'int'의 간접 참조 수준이 'char [50]'과(와) 다릅니다.
+c:\users\82108\source\repos\11.04\11.04\소스.c(24): warning C4024: 'fputc': 형식 및 실제 매개 변수 1의 형식이 서로 다릅니다.
+  11.04.vcxproj -> C:\Users\82108\source\repos\11.04\Debug\11.04.exe

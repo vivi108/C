@@ -1,0 +1,10 @@
+﻿  소스.c
+c:\users\82108\source\repos\bankersalgorithm\bankersalgorithm\소스.c(45): warning C4013: 'print_state'이(가) 정의되지 않았습니다. extern은 int형을 반환하는 것으로 간주합니다.
+c:\users\82108\source\repos\bankersalgorithm\bankersalgorithm\소스.c(48): warning C4013: 'request_resources'이(가) 정의되지 않았습니다. extern은 int형을 반환하는 것으로 간주합니다.
+c:\users\82108\source\repos\bankersalgorithm\bankersalgorithm\소스.c(83): warning C4013: 'SUB'이(가) 정의되지 않았습니다. extern은 int형을 반환하는 것으로 간주합니다.
+c:\users\82108\source\repos\bankersalgorithm\bankersalgorithm\소스.c(84): warning C4013: 'ADD'이(가) 정의되지 않았습니다. extern은 int형을 반환하는 것으로 간주합니다.
+c:\users\82108\source\repos\bankersalgorithm\bankersalgorithm\소스.c(88): warning C4013: 'is_safe'이(가) 정의되지 않았습니다. extern은 int형을 반환하는 것으로 간주합니다.
+c:\users\82108\source\repos\bankersalgorithm\bankersalgorithm\소스.c(145): warning C4716: 'ADD': 값을 반환해야 합니다.
+c:\users\82108\source\repos\bankersalgorithm\bankersalgorithm\소스.c(150): warning C4716: 'SUB': 값을 반환해야 합니다.
+c:\users\82108\source\repos\bankersalgorithm\bankersalgorithm\소스.c(177): warning C4716: 'print_state': 값을 반환해야 합니다.
+  bankersAlgorithm.vcxproj -> C:\Users\82108\source\repos\bankersAlgorithm\Debug\bankersAlgorithm.exe

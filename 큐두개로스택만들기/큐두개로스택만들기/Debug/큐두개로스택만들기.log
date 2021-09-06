@@ -1,0 +1,4 @@
+﻿  소스.c
+c:\users\82108\source\repos\큐두개로스택만들기\큐두개로스택만들기\소스.c(16): warning C4101: 'val' :참조되지 않은 지역 변수입니다.
+c:\users\82108\source\repos\큐두개로스택만들기\큐두개로스택만들기\소스.c(61): warning C4716: 'enqueue': 값을 반환해야 합니다.
+  큐두개로스택만들기.vcxproj -> C:\Users\82108\source\repos\큐두개로스택만들기\Debug\큐두개로스택만들기.exe

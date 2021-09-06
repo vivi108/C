@@ -1,0 +1,13 @@
+﻿  소스.c
+c:\users\82108\source\repos\pancakes-algorithm\pancakes-algorithm\소스.c(20): warning C4013: 'printarr'이(가) 정의되지 않았습니다. extern은 int형을 반환하는 것으로 간주합니다.
+c:\users\82108\source\repos\pancakes-algorithm\pancakes-algorithm\소스.c(24): warning C4013: 'Tagging'이(가) 정의되지 않았습니다. extern은 int형을 반환하는 것으로 간주합니다.
+c:\users\82108\source\repos\pancakes-algorithm\pancakes-algorithm\소스.c(35): warning C4013: 'flip'이(가) 정의되지 않았습니다. extern은 int형을 반환하는 것으로 간주합니다.
+c:\users\82108\source\repos\pancakes-algorithm\pancakes-algorithm\소스.c(52): warning C4013: 'intializ_Color'이(가) 정의되지 않았습니다. extern은 int형을 반환하는 것으로 간주합니다.
+c:\users\82108\source\repos\pancakes-algorithm\pancakes-algorithm\소스.c(68): warning C4013: 'pop'이(가) 정의되지 않았습니다. extern은 int형을 반환하는 것으로 간주합니다.
+c:\users\82108\source\repos\pancakes-algorithm\pancakes-algorithm\소스.c(78): warning C4047: 'return': 'int'의 간접 참조 수준이 'int *'과(와) 다릅니다.
+c:\users\82108\source\repos\pancakes-algorithm\pancakes-algorithm\소스.c(63): warning C4716: 'intializ_Color': 값을 반환해야 합니다.
+c:\users\82108\source\repos\pancakes-algorithm\pancakes-algorithm\소스.c(75): warning C4716: 'flip': 값을 반환해야 합니다.
+c:\users\82108\source\repos\pancakes-algorithm\pancakes-algorithm\소스.c(58): warning C4716: 'Tagging': 값을 반환해야 합니다.
+c:\users\82108\source\repos\pancakes-algorithm\pancakes-algorithm\소스.c(85): warning C4716: 'printarr': 값을 반환해야 합니다.
+c:\users\82108\source\repos\pancakes-algorithm\pancakes-algorithm\소스.c(91): warning C4716: 'printcolor': 값을 반환해야 합니다.
+  pancakes-algorithm.vcxproj -> C:\Users\82108\source\repos\pancakes-algorithm\Debug\pancakes-algorithm.exe
